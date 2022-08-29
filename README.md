@@ -1,1 +1,1 @@
-# This is a hangman game.
+# This is a basic hangman game.
